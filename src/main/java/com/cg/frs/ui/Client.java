@@ -63,7 +63,9 @@ public class Client {
 			}
 		}
 		case 2:
+			System.out.println("thank u ");
 			System.exit(0);
+			
 		
 	}
 		
